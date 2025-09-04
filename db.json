@@ -2,51 +2,5 @@
   {
     "metadata": {
       "title": "API Spec Q1, 10th Edition: Transition Training (Online Course)",
-      "active": true,
-      "description": "Please be advised that this training is nonrefundable and non-transferable. Once enrolled, the registration cannot be canceled, and the course cannot be transferred to another user.\nThis course is designed to assist the learner in understanding the changes, additions, and subtractions of requirements in the new 10th Ed of API Specification Q1, Quality Management System Requirements for Organizations Providing Products for the Petroleum and Natural Gas Industry. This self-paced, online course was written by API's leading authority of API Spec Q1, Dr. Edward Baniak. Included with the purchase of this self-paced, online course is a recording of a virtual, live session of the course conducted by Dr. Baniak.\nBy the end of this course, participants should be able to: Understand the changes to clauses from the 9th edition to the 10th edition, Understand the new clauses that have been developed for the 10th edition, and Identify requirements that have been subtracted from the 9th to the 10th edition.\nDr. Baniak is a Fellow and Lead Technical Investigator with the American Petroleum with over 43 years of experience in the Petroleum and Natural Gas Industry. He has been with the API for 24 years and has worked with the task group for API Q1 since his arrival at API at a time when companies were transitioning from the 5th to the 6th edition of the Q1 document. He initially represented the interests of the API Monogram Program concerning API Q1 matters and later was the secretary for Subcommittee 18, the group that has oversight of API Q1. Ed can claim to have attended every Q1 meeting during the development of the 7th, 8th, and 9th editions, and was the task group secretary for the revision to the 9th edition. In addition, Ed has Quality Management experience with operating laboratories conforming to ISO 9001, represented API at ISO TC176 (Quality Management and Quality Assurance), and has his lead auditor certification from the Institute for Quality Assurance (now the Chartered Quality Institute) from London, England. Ed has been performing both API staff and auditor observation/training to API Q1 for nearly 20 years.\nCertificate: A certificate of participation will be awarded to participants.",
-      "productId": "2d77ccef-ca80-452c-afba-5519d2b085c4",
-      "productType": "Training",
-      "trainingText": "TRAINING",
-      "modality": "Self-Paced",
-      "lob": "Training",
-      "programs": ["Training"],
-      "durationHours": 6,
-      "thumbnailUrl": "https://d1vy0qa05cdjr5.cloudfront.net/c311ad6c-5dd5-40e1-be79-7a9dd756b926/Public/Courses/d895f525-1977-4044-b85a-66e6f3d79b50/LMS-IMAGE-PLACER_350x234_SPEC-5L%20(0012).jpg",
-      "status": "Current",
-      "edition": "10",
-      "language": "English",
-      "accountId": null,
-      "rikOrderNumber": null
-    },
-    "productId": "2d77ccef-ca80-452c-afba-5519d2b085c4",
-    "price": 650,
-    "language": "English",
-    "supportedLanguages": ["English"],
-    "publishedPhase": "Published"
-  },
-  {
-    "metadata": {
-      "title": "June 28, Webinar: API Template 1.0 for GHG Reporting – Overview - On-Demand",
-      "active": true,
-      "description": "Following a comprehensive review of existing frameworks and deep engagement with member companies, API finalized a voluntary “Template 1.0 for GHG Reporting”, which was endorsed by the Executive Committee on June 9, 2021. Offering consistency, comparability, and clarity of information, the API Template 1.0 provides a core set of GHG indicators with standardized names, units, and definitions of the reporting boundaries, including across the value chain of the natural gas and oil industry.\nThis on-demand webinar includes an overview of the API Template 1.0 objective, orient API members to the Template, and provide guidance for its use.\nAdditional information:\nReporting to the API Template is voluntary. Key benefits include:\n- Enhances consistency and comparability across company-by-company climate-related reporting in the natural gas and oil industry\n- Enhances the industry’s ability to engage in policymaking and in capital markets by providing a core set of relevant information to stakeholders\n- Works as a complement to other climate-related reporting frameworks and takes into account relevant GHG reporting indicators from these frameworks\nThe API Template 1.0 draws from existing natural gas and oil company reporting practices, builds on the industry’s own existing guidance for reporting, and takes into account relevant recommended GHG reporting indicators from frameworks external to the natural gas and oil industry.",
-      "productId": "88a656bb-3bed-46da-8079-3e64fe441f87",
-      "productType": "Training",
-      "trainingText": "TRAINING",
-      "modality": "Self-Paced",
-      "lob": "Training",
-      "programs": ["Training"],
-      "durationHours": 0.5,
-      "thumbnailUrl": "https://d1vy0qa05cdjr5.cloudfront.net/c311ad6c-5dd5-40e1-be79-7a9dd756b926/Public/Courses/88a656bb-3bed-46da-8079-3e64fe441f87/GettyImages-1173733640.jpg",
-      "status": "Current",
-      "edition": null,
-      "language": "English",
-      "accountId": null,
-      "rikOrderNumber": null
-    },
-    "productId": "88a656bb-3bed-46da-8079-3e64fe441f87",
-    "price": 120,
-    "language": "English",
-    "supportedLanguages": ["English"],
-    "publishedPhase": "Published"
-  }
+    }
 ]
